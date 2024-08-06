@@ -1,0 +1,37 @@
+
+1
+<!DOCTYPE html>      
+2
+​
+3
+​
+4
+< html  lang = "pt" >
+5
+  < cabeça >
+6
+    < script  src = "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js" ></ script >
+7
+    < script  src = "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/addons/p5.sound.min.js" ></ script >
+8
+    < link  rel = "folha de estilo"  tipo = "texto/css"  href = "estilo.css" >
+9
+    < meta  conjunto de caracteres = "utf-8"  />
+10
+​
+11
+  </ cabeça >
+12
+  < corpo >
+13
+    < principal >
+14
+    </ principal >
+15
+    < script  src = "sketch.js" ></ script >
+16
+  </ corpo >
+17
+</ html >
+18
+​
